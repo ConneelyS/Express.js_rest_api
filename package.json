@@ -1,0 +1,14 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Coded to learn how to use Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Conneely",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
